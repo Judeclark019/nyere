@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.name{ 
+    font-size: 1rem;
+    text-decoration-line: underline;
+    font-weight: bold;
+    text-align: left;
+    font-style: oblique;
+    color: royalblue;
+}
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px 0 50px 0;
+}
+.title{
+    margin: 10px;
+    text-decoration: dashed;
+    font-weight: bolder;
+    font-style:italic;
+    color: white;    
+}
+.about{
+    font-style: italic;
+    font-weight: bold;
+    color: royalblue;
+}
+p{
+    padding: 10%;
+    margin: 10%;
+    font-style: calc(10);
+}
+.third{
+    background-color: azure;
+    color: black;
+}
